@@ -2,7 +2,7 @@
 
 # Hi, I'm Naomi  
 
-I’m a Data Science student passionate about turning data into insights and building real-world machine learning projects.  
+I’m an emerging Data Scientist passionate about turning data into insights and building real-world machine learning projects.  
 Currently exploring time series forecasting, anomaly detection, and product-oriented data analysis.  
 
 ---
